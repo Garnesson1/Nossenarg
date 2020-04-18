@@ -4,6 +4,8 @@ Do not hesitate to contact me in case of questions, comments or critique, always
 
 A/B testing : Project of testing differences in conversion rates within a mobile game.
 
+NLP_on_Search_Keywords : Using TF-IDF and CountVectorizer() on internet SEARCH Keywords to predict gender and age of audience.
+
 Purchase Pattern Predicition : Project of predicting wether a customer will return to a store.
 
 Rule Mining Machine : Hackathon project with goal of prediction machine failure. Association rule mining was used to                           find warnings that often happen before errors as feature in a model
